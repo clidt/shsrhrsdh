@@ -15,7 +15,7 @@
     --guildchanneltransparency: 0.2;
     --memberlistransparency: 0.2;
     --accentcolor: 79,13,11;
-    --background: url("https://vsthemes.org/en/wallpapers/anime/34679-blood-moon-itachi-4k.html");
+    --background: url("https://vsthemes.org/en/wallpapers/anime/34679-blood-moon-itachi-4k.webp");
     --backdrop: rgba(0,0,0,0.2);
     --backgroundblur: 0px;
     --popoutblur: 0px;
