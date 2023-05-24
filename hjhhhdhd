@@ -15,7 +15,7 @@
     --guildchanneltransparency: 0.2;
     --memberlistransparency: 0.2;
     --accentcolor: 79,13,11;
-    --background: url("https://vsthemes.org/uploads/nova/760430-1/85a/41f85afc355881c48ecaf9da8d78e25b.webp");
+    --background: url("https://vsthemes.org/uploads/nova/760430-1/9dd/2ff9dd071eb20ec48f7997d561b254d3.webp");
     --backdrop: rgba(0,0,0,0.2);
     --backgroundblur: 0px;
     --popoutblur: 0px;
